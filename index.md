@@ -28,7 +28,7 @@ Our key target audiences are:
 You for sure at least one time in your life used Instagram or SnapChat mask, or tried to catch Pokemons - and all this staff is based on Augmented reality technology. 
 
 **Augmented reality** (often known as AR) is a computer technology that shows digital images on top of the current real world. For example it can show a digital table on top of a floor. It is different from virtual reality which makes a person feel they are somewhere else.  
-Mostly, you are using Instagram mask for fun - but AR technology can be used for 
+Mostly, you are using Instagram mask for fun - but AR technology can be used for: 
 - develop creativity 
 - education purpose (history, science etc) 
 - AR masks are often uses for Ads 
@@ -50,7 +50,16 @@ Here is direct link for loading:
 - [Spark AR Studio for macOS](https://www.facebook.com/sparkarmacos/download) 
 - or use from official site [https://sparkar.facebook.com/](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
-<img src="{{site.url}}/images/image1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/images/image1.png" style="display: block; margin: auto;" /> 
+
+***Don't forget to save your project:***
+Click File in the navigation bar and then select either Save or Save As...
+Enter a title, location and tags, if required
+Click Save 
+Spark AR will create folder with title which you give, and file *.arproj extention. 
+To open your previous mask - just click on file *.arproj extention or if you work in Spark AR follow File > Open from main menu on top. 
+To try on your effect: 
+On left menu find button "Test on device" (in red rectangle) > click "Send to App" > click "Send" near instagram camera (wait a moment for message "We've sent a notification ..." ) > Copy link 
 
 <img src="{{site.url}}/images/image2.png" style="display: block; margin: auto;" />
 
