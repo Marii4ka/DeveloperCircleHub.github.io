@@ -68,8 +68,9 @@ On left menu find button "Test on device" (in red rectangle) > click "Send to Ap
 
 Open this link on a mobile device to see the effect
 
-***Congratulations!
-🎉🎊 You created your first Instagram effect!  🎊🎉 ***
+***Congratulations!***
+🎉🎊 ***You created your first Instagram effect!***  🎊🎉 
+
  
 Now you  can surprise your friends by just sharing your preview link.
 
