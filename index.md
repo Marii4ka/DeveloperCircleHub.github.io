@@ -61,8 +61,6 @@ In this tutorial you’ll use the standard material and a light to create a hair
 
 Hair segmentation is achieved with a hair segmentation mask texture, which you can create in Spark AR Studio. You’ll combine this texture with the camera texture in a material, then experiment with settings in the material to apply all kinds of visual effects to the hair.
 
-Download the sample content to see the finished effect.
-
 Creating the textures
 Let’s take a quick look at how these textures work together to achieve hair segmentation:
 
@@ -74,13 +72,13 @@ The hair segmentation texture
 
 To add the hair segmentation texture to your project:
 
-In the Scene panel, select Camera.
-Go to the Inspector.
-Next to Segmentation, click +.
-Select Hair.
+- In the Scene panel, select Camera.
+- Go to the Inspector.
+- Next to Segmentation, click +.
+- Select Hair.
 
 
-<img src="{{site.url}}/images/image4.gif" style="display: block; margin: auto;" /> 
+<img src="{{site.url}}/images/image5.gif" style="display: block; margin: auto;" /> 
 
 A texture called hairSegmentationMaskTexture0 will be listed in the Assets panel.
 
@@ -88,9 +86,9 @@ The camera texture
 
 Now add the camera texture:
 
-In the Scene panel, select Camera.
-In the Inspector, go to Texture Extraction.
-Next to Texture Extraction, click +.
+- In the Scene panel, select Camera.
+- In the Inspector, go to Texture Extraction.
+- Next to Texture Extraction, click +.
 A texture named cameraTexture0 will be listed in the Assets panel:
 
 
