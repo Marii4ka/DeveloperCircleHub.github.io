@@ -52,3 +52,6 @@ Here is direct link for loading:
 
 <img src="{{site.url}}/images/image1.png" style="display: block; margin: auto;" />
 
+<img src="{{site.url}}/images/image2.png" style="display: block; margin: auto;" />
+
+
