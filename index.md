@@ -117,7 +117,7 @@ To create the material you’ll add the textures to:
 - A new material will be added to the Assets panel. Rename it hair_mat.
 
 
-<img src="{{site.url}}/images/image7.gif" style="display: block; margin: auto;" /> 
+<img src="{{site.url}}/images/image7.png" style="display: block; margin: auto;" /> 
 
 Editing the material.
 
@@ -140,7 +140,7 @@ Select hair_mat in the Assets panel.
 In the Inspector, go to Diffuse.
 Next to Color, click the rectangle and choose a color.
 
-<img src="{{site.url}}/images/image6.png" style="display: block; margin: auto;" /> 
+<img src="{{site.url}}/images/image6.gif" style="display: block; margin: auto;" /> 
 
 It’s worth experimenting with the opacity of the material, for a stronger or more subtle effect. To do this, adjust the slider next to Opacity in the Inspector.
 
