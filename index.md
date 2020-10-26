@@ -50,3 +50,5 @@ Here is direct link for loading:
 - [Spark AR Studio for macOS](https://www.facebook.com/sparkarmacos/download) 
 - or use from official site [https://sparkar.facebook.com/](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
+<img src="{{site.url}}/images/image1.png" style="display: block; margin: auto;" />
+
