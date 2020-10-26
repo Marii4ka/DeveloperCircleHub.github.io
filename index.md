@@ -53,14 +53,28 @@ Here is direct link for loading:
 <img src="{{site.url}}/images/image1.png" style="display: block; margin: auto;" /> 
 
 ***Don't forget to save your project:***
-Click File in the navigation bar and then select either Save or Save As...
-Enter a title, location and tags, if required
-Click Save 
-Spark AR will create folder with title which you give, and file *.arproj extention. 
-To open your previous mask - just click on file *.arproj extention or if you work in Spark AR follow File > Open from main menu on top. 
-To try on your effect: 
-On left menu find button "Test on device" (in red rectangle) > click "Send to App" > click "Send" near instagram camera (wait a moment for message "We've sent a notification ..." ) > Copy link 
 
-<img src="{{site.url}}/images/image2.png" style="display: block; margin: auto;" />
+- Click File in the navigation bar and then select either Save or Save As...
+- Enter a title, location and tags, if required
+- Click Save 
+Spark AR will create folder with title which you have given, and file *.arproj extention inside. 
+
+To open your previous mask - just click on file *.arproj extention or if you work in Spark AR follow File > Open from main menu on top. 
+
+***To try on your effect:*** 
+On left menu find button "Test on device" (in red rectangle) > click "Send to App" > click "Send" near instagram camera (wait a moment for message "We've sent a notification ..." ) > Copy link  
+
+<img src="{{site.url}}/images/image2.png" style="display: block; margin: auto;" /> 
+
+Open this link on a mobile device to see the effect
+
+***Congratulations!
+🎉🎊 You created your first Instagram effect!  🎊🎉 ***
+ 
+Now you  can surprise your friends by just sharing your preview link.
+
+If you want you can publish your Instagram effect - follow this [instruction] (https://sparkar.facebook.com/ar-studio/learn/publishing/publishing-your-spark-ar-effect/)  but it will take some time (up to 10 days)  
+
+
 
 
