@@ -78,7 +78,7 @@ To add the hair segmentation texture to your project:
 - Select Hair.
 
 
-<img src="{{site.url}}/images/image10.gif" style="display: block; margin: auto;" /> 
+<img src="{{site.url}}/images/image10.png" style="display: block; margin: auto;" /> 
 
 A texture called hairSegmentationMaskTexture0 will be listed in the Assets panel.
 
@@ -95,18 +95,17 @@ A texture named cameraTexture0 will be listed in the Assets panel:
 <img src="{{site.url}}/images/image9.png" style="display: block; margin: auto;" /> 
 
 Adding a rectangle
-A rectangle will render the textures and material in the scene.
 
+A rectangle will render the textures and material in the scene.
 To add the rectangle:
 
-Click Add Object.
-Select Rectangle - it’ll automatically be added to the scene as a child of a canvas:
-
+- Click Add Object.
+- Select Rectangle - it’ll automatically be added to the scene as a child of a canvas:
 
 The rectangle should completely cover the device’s screen. To do this, adjust the rectangle’s properties:
 
-Go to the Inspector.
-Change the Size properties to Fill Width and Fill Height.
+- Go to the Inspector.
+- Change the Size properties to Fill Width and Fill Height.
 
 
 Creating a material
@@ -172,7 +171,8 @@ Open this link on a mobile device to see the effect
  
 Now you  can surprise your friends by just sharing your preview link.
 
-If you want you can publish your Instagram effect - follow this [instruction](https://sparkar.facebook.com/ar-studio/learn/publishing/publishing-your-spark-ar-effect/)  but it will take some time (up to 10 days)  
+If you want you can publish your Instagram effect - follow this [instruction](https://sparkar.facebook.com/ar-studio/learn/publishing/publishing-your-spark-ar-effect/)  but it will take some time (up to 10 days) 
+
 
 
 
