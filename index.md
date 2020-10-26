@@ -52,6 +52,105 @@ Here is direct link for loading:
 
 <img src="{{site.url}}/images/image1.png" style="display: block; margin: auto;" /> 
 
+***Hair Segmentation***
+
+
+In this tutorial you’ll use the standard material and a light to create a hair segmentation effect. You’ll also add interactivity, to change hair color when the screen is tapped.
+
+Hair segmentation is achieved with a hair segmentation mask texture, which you can create in Spark AR Studio. You’ll combine this texture with the camera texture in a material, then experiment with settings in the material to apply all kinds of visual effects to the hair.
+
+Download the sample content to see the finished effect.
+
+Creating the textures
+Let’s take a quick look at how these textures work together to achieve hair segmentation:
+
+The camera texture represents the live video captured by the camera when an effect is being played. When combined with a material, you can adjust the properties in the material to change the pixels in the camera texture - for example changing the color in a filter effect.
+The hair segmentation texture separates a person’s hair from the rest of the scene.
+Combining these two textures in the same material lets you to change the color of the hair, by manipulating the pixels in this part of the camera texture only.
+
+The hair segmentation texture
+
+To add the hair segmentation texture to your project:
+
+In the Scene panel, select Camera.
+Go to the Inspector.
+Next to Segmentation, click +.
+Select Hair.
+
+
+A texture called hairSegmentationMaskTexture0 will be listed in the Assets panel.
+
+The camera texture
+
+Now add the camera texture:
+
+In the Scene panel, select Camera.
+In the Inspector, go to Texture Extraction.
+Next to Texture Extraction, click +.
+A texture named cameraTexture0 will be listed in the Assets panel:
+
+
+
+Adding a rectangle
+A rectangle will render the textures and material in the scene.
+
+To add the rectangle:
+
+Click Add Object.
+Select Rectangle - it’ll automatically be added to the scene as a child of a canvas:
+
+
+The rectangle should completely cover the device’s screen. To do this, adjust the rectangle’s properties:
+
+Go to the Inspector.
+Change the Size properties to Fill Width and Fill Height.
+
+
+Creating a material
+To create the material you’ll add the textures to:
+
+Select rectangle0 in the Scene panel.
+In the Inspector, go to Create New Material and click +.
+A new material will be added to the Assets panel. Rename it hair_mat.
+
+
+
+Editing the material.
+
+Add the textures you’ve already created to the material:
+
+Go to the Inspector.
+Under Diffuse, click the dropdown next to Texture and select cameraTexture0.
+Check the box next to Alpha.
+Next to Texture, click the dropdown and select hairSegmentationMaskTexture0.
+You’ll see the video of the camera texture playing in the Simulator:
+
+
+
+Changing the hair color
+
+To give the hair a different color:
+
+Select hair_mat in the Assets panel.
+In the Inspector, go to Diffuse.
+Next to Color, click the rectangle and choose a color.
+
+
+It’s worth experimenting with the opacity of the material, for a stronger or more subtle effect. To do this, adjust the slider next to Opacity in the Inspector.
+
+
+
+For this tutorial set Opacity to 80%.
+
+Editing the Render Options
+
+Editing the Render Options in the material will change appearance of the hair color, so it’s worth experimenting with these settings. For this tutorial:
+
+Change Blend Mode to Add.
+
+
+
+
 ***Don't forget to save your project:***
 
 - Click File in the navigation bar and then select either Save or Save As...
