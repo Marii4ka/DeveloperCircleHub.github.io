@@ -46,7 +46,7 @@ Installing Spark AR Studio  is fairly straightforward - but it should be done at
 (file around 400Mb) 
 Here is direct link for loading:
 
-- Spark AR Studio for Windows (https://www.facebook.com/sparkarwindows/download)
-- Spark AR Studio for macOS (https://www.facebook.com/sparkarmacos/download) 
-- or use from official site https://sparkar.facebook.com/ (https://sparkar.facebook.com/ar-studio/learn/downloads/)
+- [Spark AR Studio for Windows](https://www.facebook.com/sparkarwindows/download)
+- [Spark AR Studio for macOS](https://www.facebook.com/sparkarmacos/download) 
+- or use from official site [https://sparkar.facebook.com/](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
