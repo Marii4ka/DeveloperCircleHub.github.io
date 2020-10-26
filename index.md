@@ -74,7 +74,7 @@ Open this link on a mobile device to see the effect
  
 Now you  can surprise your friends by just sharing your preview link.
 
-If you want you can publish your Instagram effect - follow this [instruction] (https://sparkar.facebook.com/ar-studio/learn/publishing/publishing-your-spark-ar-effect/)  but it will take some time (up to 10 days)  
+If you want you can publish your Instagram effect - follow this [instruction](https://sparkar.facebook.com/ar-studio/learn/publishing/publishing-your-spark-ar-effect/)  but it will take some time (up to 10 days)  
 
 
 
